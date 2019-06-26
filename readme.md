@@ -1,5 +1,5 @@
 ![HubSpot](https://cdn2.hubspot.net/hubfs/327485/HubSpot%20Wordmark%20-%20Full%20Color.png "HubSpot")
-## SUF HEADER 2
+## SUF HEADER 3
 
 The Header module can be easily added to your existing HubSpot website and allows you create a centered header with text and custom colors
 
@@ -7,7 +7,7 @@ The Header module can be easily added to your existing HubSpot website and allow
 
 https://w.inboundlabs.co/header234demo
 
-### The HEADER 2 module is FREE and is part of the Startup Framework FREE and PAID packages:
+### The HEADER 3 module is FREE and is part of the Startup Framework FREE and PAID packages:
 
 https://marketplace.hubspot.com/products/inboundlabs/startup-framework-marketplace
 
